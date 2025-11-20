@@ -40,6 +40,17 @@ src="https://files.catbox.moe/9n8gjp.jpg">
 </p>
 
 <p align="center">
+    <strong>JOIN US</strong>
+  <br>
+    <a href="https://t.me/nagiipstarmd">
+    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
+  </a>
+  <a href="https://chat.whatsapp.com/HfI1UG8hvgOBKeMXwtj1cR?mode=wwt">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+  </a>
+</p>
+
+<p align="center">
     <strong>THIS BOT IS 100% NOT ENCRYPTED YOU CAN CHANGE ANYTHING</strong>
     <br>
 </p>
@@ -56,7 +67,7 @@ src="https://files.catbox.moe/9n8gjp.jpg">
 
 - This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
 
-**© Nagiip Star**@Sharmaake @Axmeto @Axmed Taajir
+**© Nagiip Star** @Sharmaake @Axmeto @Axmed Taajir
 ##
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
