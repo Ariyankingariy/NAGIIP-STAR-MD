@@ -244,6 +244,13 @@ async function checkAndInstallFFmpeg() {
 // MAIN BOT STARTUP
 // ============================================
 async function startBot() {
+    // Keep alive server
+    const express = require('express');
+    const app = express();
+    const port = process.env.PORT || 8000;
+    app.get('/', (req, res) => res.send('Bot is Alive!'));
+    app.listen(port, () => console.log(`🚀 Keep-alive server running on port ${port}`));
+
     console.log('\n╔════════════════════════════════════╗');
     console.log('║  🚀 NAGIIP STAR MD BOT STARTING... ║');
     console.log('╚════════════════════════════════════╝\n');
